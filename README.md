@@ -12,4 +12,4 @@ The ec2:CreateTags must be part of the base instance profile policy on AWS.
 
 Usage
 -----
-#### wabtec_habitat::default
+habitat_run::default
